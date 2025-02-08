@@ -28,7 +28,7 @@
 
 <script setup lang="ts">
 import { ref, onMounted } from 'vue'
-import { VTIconPlus } from '@/theme'
+import { VTIconPlus } from '@modules/theme'
 
 const isVisible = ref<Boolean>(true)
 const showFlash = ref<Boolean>(false)

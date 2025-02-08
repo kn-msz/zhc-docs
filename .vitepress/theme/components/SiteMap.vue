@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { VTLink } from '@/theme'
+import { VTLink } from '@modules/theme'
 import { useData } from 'vitepress'
 
 const data = useData()

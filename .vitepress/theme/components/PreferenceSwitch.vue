@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { VTSwitch, VTIconChevronDown } from '@/theme'
+import { VTSwitch, VTIconChevronDown } from '@modules/theme'
 import { useRoute } from 'vitepress'
 import { ref, computed, inject, Ref } from 'vue'
 import {

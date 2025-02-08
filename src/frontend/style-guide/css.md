@@ -2,23 +2,7 @@
 outline: deep
 ---
 
-
-
-
-<div class="style-example style-example-bad">
-<h3>Bad</h3>
-
-</div>
-
-
-<div class="style-example style-example-good">
-<h3>Good</h3>
-
-</div>
-
 # CSS 规范 {#css-standard}
-
-## CSS {#css}
 
 ## 编码风格 {#coding-style}
 

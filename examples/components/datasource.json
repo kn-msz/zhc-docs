@@ -1,0 +1,263 @@
+{
+    "dictList": [
+        {
+            "dictType": "alarm_time_config",
+            "dataList": [
+                {
+                    "dictTypeId": "1406860367409266689",
+                    "dictLabel": "不提醒",
+                    "dictValue": "-1",
+                    "useState": "1",
+                    "createDate": null,
+                    "updateDate": null,
+                    "remark": null,
+                    "paymentSettingId": null
+                },
+                {
+                    "dictTypeId": "1406860367409266689",
+                    "dictLabel": "开始时",
+                    "dictValue": "0",
+                    "useState": "1",
+                    "createDate": null,
+                    "updateDate": null,
+                    "remark": null,
+                    "paymentSettingId": null
+                },
+                {
+                    "dictTypeId": "1406860367409266689",
+                    "dictLabel": "提前5分钟",
+                    "dictValue": "5",
+                    "useState": "1",
+                    "createDate": null,
+                    "updateDate": null,
+                    "remark": null,
+                    "paymentSettingId": null
+                },
+                {
+                    "dictTypeId": "1406860367409266689",
+                    "dictLabel": "提前10分钟",
+                    "dictValue": "10",
+                    "useState": "1",
+                    "createDate": null,
+                    "updateDate": null,
+                    "remark": null,
+                    "paymentSettingId": null
+                },
+                {
+                    "dictTypeId": "1406860367409266689",
+                    "dictLabel": "提前15分钟",
+                    "dictValue": "15",
+                    "useState": "1",
+                    "createDate": null,
+                    "updateDate": null,
+                    "remark": null,
+                    "paymentSettingId": null
+                },
+                {
+                    "dictTypeId": "1406860367409266689",
+                    "dictLabel": "提前30分钟",
+                    "dictValue": "30",
+                    "useState": "1",
+                    "createDate": null,
+                    "updateDate": null,
+                    "remark": null,
+                    "paymentSettingId": null
+                },
+                {
+                    "dictTypeId": "1406860367409266689",
+                    "dictLabel": "提前1小时",
+                    "dictValue": "60",
+                    "useState": "1",
+                    "createDate": null,
+                    "updateDate": null,
+                    "remark": null,
+                    "paymentSettingId": null
+                },
+                {
+                    "dictTypeId": "1406860367409266689",
+                    "dictLabel": "提前2小时",
+                    "dictValue": "120",
+                    "useState": "1",
+                    "createDate": null,
+                    "updateDate": null,
+                    "remark": null,
+                    "paymentSettingId": null
+                }
+            ]
+        },
+        {
+            "dictType": "abroad_task_type",
+            "dataList": [
+                {
+                    "dictTypeId": "1424544754145837057",
+                    "dictLabel": "出国学习",
+                    "dictValue": "1",
+                    "useState": "1",
+                    "createDate": null,
+                    "updateDate": null,
+                    "remark": null,
+                    "paymentSettingId": null
+                }
+            ]
+        }
+    ],
+    "treeData": {
+        "/sys/dept/list": [
+            {
+                "id": "1882246718434050049",
+                "pid": "0",
+                "level": 1,
+                "children": [
+                    {
+                        "id": "1882246953487040513",
+                        "pid": "1882246718434050049",
+                        "level": 2,
+                        "children": [],
+                        "pids": "1882246718434050049",
+                        "name": "总经办",
+                        "abbreviation": "ZJB",
+                        "leaderId": "1667084251224952833",
+                        "sort": 0,
+                        "createDate": "2025-01-23 10:00:19",
+                        "parentName": "北京正成科技有限公司",
+                        "code": "",
+                        "leaderName": null,
+                        "thirdId": null,
+                        "deptLevel": "",
+                        "accountSuitId": null,
+                        "deptNames": null,
+                        "isDisabled": false,
+                        "disabled": false,
+                        "parent": false
+                    },
+                    {
+                        "id": "1882250609183686658",
+                        "pid": "1882246718434050049",
+                        "level": 2,
+                        "children": [],
+                        "pids": "1882246718434050049",
+                        "name": "综管部",
+                        "abbreviation": "ZGB",
+                        "leaderId": "1667084251224952833",
+                        "sort": 0,
+                        "createDate": "2025-01-23 10:14:50",
+                        "parentName": "北京正成科技有限公司",
+                        "code": "",
+                        "leaderName": null,
+                        "thirdId": null,
+                        "deptLevel": "",
+                        "accountSuitId": null,
+                        "deptNames": null,
+                        "isDisabled": false,
+                        "disabled": false,
+                        "parent": false
+                    },
+                    {
+                        "id": "1882250776595136513",
+                        "pid": "1882246718434050049",
+                        "level": 2,
+                        "children": [],
+                        "pids": "1882246718434050049",
+                        "name": "新业务部",
+                        "abbreviation": "XYWB",
+                        "leaderId": "1667088913336455169",
+                        "sort": 0,
+                        "createDate": "2025-01-23 10:15:30",
+                        "parentName": "北京正成科技有限公司",
+                        "code": "",
+                        "leaderName": null,
+                        "thirdId": null,
+                        "deptLevel": "",
+                        "accountSuitId": "1882246718434050049",
+                        "deptNames": null,
+                        "isDisabled": false,
+                        "disabled": false,
+                        "parent": false
+                    },
+                    {
+                        "id": "1882250922955374594",
+                        "pid": "1882246718434050049",
+                        "level": 2,
+                        "children": [],
+                        "pids": "1882246718434050049",
+                        "name": "实施一部",
+                        "abbreviation": "SSYB",
+                        "leaderId": "1666704308775239682",
+                        "sort": 0,
+                        "createDate": "2025-01-23 10:16:05",
+                        "parentName": "北京正成科技有限公司",
+                        "code": "",
+                        "leaderName": null,
+                        "thirdId": null,
+                        "deptLevel": "",
+                        "accountSuitId": "1882246718434050049",
+                        "deptNames": null,
+                        "isDisabled": false,
+                        "disabled": false,
+                        "parent": false
+                    },
+                    {
+                        "id": "1882251012956749825",
+                        "pid": "1882246718434050049",
+                        "level": 2,
+                        "children": [],
+                        "pids": "1882246718434050049",
+                        "name": "实施二部",
+                        "abbreviation": "SSRB",
+                        "leaderId": "1667069646511624194",
+                        "sort": 0,
+                        "createDate": "2025-01-23 10:16:27",
+                        "parentName": "北京正成科技有限公司",
+                        "code": "",
+                        "leaderName": null,
+                        "thirdId": null,
+                        "deptLevel": "",
+                        "accountSuitId": "1882246718434050049",
+                        "deptNames": null,
+                        "isDisabled": false,
+                        "disabled": false,
+                        "parent": false
+                    },
+                    {
+                        "id": "1882251136701300737",
+                        "pid": "1882246718434050049",
+                        "level": 2,
+                        "children": [],
+                        "pids": "1882246718434050049",
+                        "name": "技术开发部",
+                        "abbreviation": "JSKFB",
+                        "leaderId": "1868471599467331585",
+                        "sort": 0,
+                        "createDate": "2025-01-23 10:16:56",
+                        "parentName": "北京正成科技有限公司",
+                        "code": "",
+                        "leaderName": null,
+                        "thirdId": null,
+                        "deptLevel": "",
+                        "accountSuitId": "1882246718434050049",
+                        "deptNames": null,
+                        "isDisabled": false,
+                        "disabled": false,
+                        "parent": false
+                    }
+                ],
+                "pids": "0",
+                "name": "北京正成科技有限公司",
+                "abbreviation": "ZHC",
+                "leaderId": null,
+                "sort": 0,
+                "createDate": "2025-01-23 09:59:23",
+                "parentName": null,
+                "code": "",
+                "leaderName": null,
+                "thirdId": null,
+                "deptLevel": "",
+                "accountSuitId": null,
+                "deptNames": null,
+                "isDisabled": false,
+                "disabled": false,
+                "parent": false
+            }
+        ]
+    }
+}

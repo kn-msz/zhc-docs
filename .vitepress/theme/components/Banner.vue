@@ -6,7 +6,7 @@
  * 3. update --vt-banner-height if necessary
  */
 import { ref } from 'vue'
-import { VTIconPlus } from '@/theme'
+import { VTIconPlus } from '@modules/theme'
 
 const open = ref(true)
 

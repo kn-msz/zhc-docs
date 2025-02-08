@@ -1,0 +1,50 @@
+
+.form-select{
+    display: flex;
+    gap: 12px;
+}
+.form-select-filter {
+    display: flex
+}
+
+.form-select-filter-select {
+    width: 150px;
+}
+
+
+.form-button{
+    display: flex;
+}
+
+
+.list-content {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 20px 0;
+}
+
+
+.form-data {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center
+}
+
+
+.list-pagination{
+    display: flex;
+    justify-content: end;
+}
+
+
+.form-tab .el-tabs__item {
+    font-size: 12px;
+}
+.form-tab .el-tabs__header {
+    margin: 0;
+}
+.form-tab .el-tabs__nav-wrap:after {
+    background: rgba(228,231,237,0)
+}
